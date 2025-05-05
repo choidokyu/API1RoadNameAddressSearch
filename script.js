@@ -11,7 +11,7 @@ document.getElementById('addrForm').addEventListener('submit', function (e) {
     currentPage: '1',
     countPerPage: '10',
     resultType: 'json',
-    confmKey: 'YOUR_KEY_HERE', // <-- 발급받은 키로 교체하세요
+    confmKey: 'U01TX0FVVEgyMDI1MDUwNjA4MzYxODExNTcxOTk=', // <-- 발급받은 키로 교체하세요
     keyword: keyword
   });
 
